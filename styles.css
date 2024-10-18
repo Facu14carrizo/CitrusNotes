@@ -73,9 +73,9 @@ body {
   display: none;
 }
 
-/* Media Queries para Responsividad */
+/* Media Queries for Responsive */
 @media (max-width:600px) {
     .note {
-       width: calc(100% -40px); /* Ancho completo en móviles */
+       width: calc(100% -40px); /* Max width for mobile */
     }
  }
