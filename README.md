@@ -1,6 +1,6 @@
 # Citrus Notes
 
-![Notes App Demo](https://example.com/demo-image.png)
+![Citrus App Demo](Assets/CitrusNotes-Demo.gif)
 
 ## Description
 
