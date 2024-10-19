@@ -2,6 +2,8 @@
 
 ![Citrus App Demo](Assets/CitrusNotes-Demo.gif)
 
+## Try Demo [here](https://citrusnotes.netlify.app).
+
 ## Description
 
 **Citrus Notes** is a simple and minimalist web application that allows users to create, edit, and delete notes. The application uses local storage to save notes, ensuring that they persist even after closing the browser!
